@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Tab_Study</string>
+
+
+    <string name="tab_music">MUSIC</string>
+    <string name="tab_market">MARKET</string>
+    <string name="tab_films">FILMS</string>
+    <string name="tab_books">BOOKS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="market_items">
+        <item>Hilltown</item>
+        <item>Red Cat</item>
+        <item>DR</item>
+    </string-array>
+
+
+    <string-array name="films">
+        <item>The Shawshank Redemption</item>
+        <item>Green Mile</item>
+        <item>Star Wars</item>
+        <item>The Lord of The Rings</item>
+    </string-array>
+
+    <string-array name="books">
+        <item>The Catcher in The Rye</item>
+        <item>Origin</item>
+        <item>Digital Fortress</item>
+        <item>The System</item>
+    </string-array>
+
+
+    <string name="share_title">SHARE</string>
+</resources>
